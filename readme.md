@@ -25,6 +25,7 @@ LaTeX 简历模板来自于 [billryan](https://github.com/billryan/resume/) 的 
 - 添加了**校徽（滑稽）背景**，或许更有辨识度
 
 ### 输出
+请用 XeLaTeX 编译：
 
 ![resume](D:\研究生\20寒假\typro\图例\resume.png)
 
