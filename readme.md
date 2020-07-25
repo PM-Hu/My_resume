@@ -27,7 +27,7 @@ LaTeX 简历模板来自于 [billryan](https://github.com/billryan/resume/) 的 
 ### 输出
 请用 XeLaTeX 编译：
 
-![resume](D:\研究生\20寒假\typro\图例\resume.png)
+![resume](https://github.com/pro4Hu/My_resume/blob/master/resume.png)
 
 ### 字体
 
