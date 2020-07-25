@@ -35,7 +35,7 @@ LaTeX 简历模板来自于 [billryan](https://github.com/billryan/resume/) 的 
 
 - 方正字迹-张颢硬笔楷书，来自 [http://zitixiazai.taofont.com/]
 
-   ![方正字迹-张颢硬笔楷书](D:\研究生\20寒假\latex\简历-模板\resume-zh_CN\方正字迹-张颢硬笔楷书.jpg)
+   ![方正字迹-张颢硬笔楷书](https://github.com/pro4Hu/My_resume/blob/master/%E6%96%B9%E6%AD%A3%E5%AD%97%E8%BF%B9-%E5%BC%A0%E9%A2%A2%E7%A1%AC%E7%AC%94%E6%A5%B7%E4%B9%A6.jpg)
 
 如果你不满意这个字体，想要**添加自己的字体**，打开`ressume-zh_CN.tex`文件，选中命令`\fangzheng 你的名字}`，将`\fangzheng`改为**你想要的字体名称**，如果删除后不添加字体名称，会使用默认字体：**黑体**。
 
