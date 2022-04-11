@@ -14,7 +14,13 @@
 \usepackage{color}  % 改变背景颜色
 \definecolor{shadecolor}{rgb}{0.92,0.92,0.92} % 灰色
 
-\usepackage{background}
+\makeatletter
+\@namedef{ver@everypage.sty}{9999/99/99}
+\makeatother
+\usepackage{everypage-1x}
+\usepackage[contents=DRAFT, color=red, opacity=0.2]{background} % 2022.4.11 避免首页背景加深
+
+% \usepackage{background}
 \backgroundsetup{scale=0.4, angle=0, opacity = 0.15,  % 放缩  旋转  透明度
 contents = {\includegraphics[width=\paperwidth, height=\paperwidth, keepaspectratio] {time.png}}}  % 添加背景图片
 
